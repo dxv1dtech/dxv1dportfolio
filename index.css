@@ -221,6 +221,7 @@ body:not(.user-is-tabbing) a:focus {
     color: inherit;
     border: 1px solid  var(--pink);
     font-weight: 400;
+    margin-right: 10px;
 }
 
 .btn:focus {
@@ -490,6 +491,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .work__image-box {
     margin-bottom: var(--gutter-normal);
+    border: 1px solid white;
 }
 
 @media(min-width: 901px) {
